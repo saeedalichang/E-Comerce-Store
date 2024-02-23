@@ -1,0 +1,43 @@
+.header{
+    background-color: #333E48;
+}
+.card1{
+    background-image: url(images/sub-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.card2{
+    background-image: url(images/sub-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.card3{
+    background-image: url(images/sub-banner-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.card4{
+    background-image: url(images/cms-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color: aliceblue;
+}
+.card5{
+    background-image: url(images/cms-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.banner-img{
+    background-image:url(Images/offer-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner{
+    background-color: #333E48;
+}
+
